@@ -48,7 +48,7 @@
 2. Дизайн онлайн-кинотеатра
 ![kino](https://github.com/SMalexeev/SMalexeev/blob/master/assets/kino.png)
 <br/>
-[Ссылка на макет](https://www.figma.com/file/U531xU7h1gKApXyYsAsjra/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B0%D0%B9%D1%82?type=design&mode=design&t=EyCrWLDbRLFwttOO-0)
+[Ссылка на макет](https://www.figma.com/file/U531xU7h1gKApXyYsAsjra/kino?type=design&mode=design&t=83Ato1Uds1rrMBlV-0)
 
 
 <!-- 3. Дизайн сайта для бара "Rocket Pub"
