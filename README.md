@@ -1,4 +1,4 @@
-[![Header](https://github.com/SMalexeev/SMalexeev/blob/master/assets/Alexeev_2.png)]
+![Header](https://github.com/SMalexeev/SMalexeev/blob/master/assets/Alexeev_2.png)
 # Меня зовут Семён
 
 ## Обо мне
