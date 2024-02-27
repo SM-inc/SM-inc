@@ -34,12 +34,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Языки программирования
+## Языки программирования:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Примеры дизайна
+## Примеры дизайна:
 1. Дизайн сайта Московского приборостроительного техникума
 ![MPT](https://github.com/SMalexeev/SMalexeev/blob/master/assets/mpt.png) <br/>
 [Ссылка на макет](https://www.figma.com/file/QiOftMVJJbuW97sQlUGeXg/%D0%9C%D0%9F%D0%A2?type=design&node-id=0-1&mode=design&t=EyCrWLDbRLFwttOO-0)
@@ -51,3 +51,12 @@
 
 <!-- 3. Дизайн сайта для бара "Rocket Pub"
 Ссылка на макет -->
+
+## Дипломная работа:
+* [Сценарий и результаты тестовых испытания](https://github.com/SMalexeev/ULC-diploma/blob/master/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%20%D0%A1.%20%D0%90.%20%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%91.%20%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D1%85%20%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B9.docx)<br/>
+* [Пояснительная записка](https://github.com/SMalexeev/ULC-diploma/blob/master/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%20%D0%A1.%20%D0%90.%20%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0.docx)<br/>
+* [Другие файлы](https://github.com/SMalexeev/ULC-diploma)
+
+## Другие работы:
+* [Худ для стрима](https://github.com/SMalexeev/mschud)
+* [Мод для игры My Summer Car](https://github.com/SMalexeev/Mob5terSwearing)
