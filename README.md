@@ -53,17 +53,23 @@
     <img alt="rocketbar" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/rocketbar_1.png" height="600"/>
     <img alt="rocketbar" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/rocketbar_2.png" height="600"/>
     </br>
-    <a href="https://www.figma.com/file/om2qVfQiM9quZgEO5wt54b/The-Rocket-Bar?type=design&node-id=0%3A1&mode=design&t=0r00NJQPChyaDAUi-1)">Ссылка на макет</a>
+    <a href="https://www.figma.com/file/om2qVfQiM9quZgEO5wt54b/The-Rocket-Bar?type=design&node-id=0%3A1&mode=design&t=0r00NJQPChyaDAUi-1">Ссылка на макет</a>
 </p>
 
 2. Дизайн сайта Московского приборостроительного техникума
-<img alt="MPT" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/mpt.png" height="600"/><br/>
-[Ссылка на макет](https://www.figma.com/file/QiOftMVJJbuW97sQlUGeXg/%D0%9C%D0%9F%D0%A2?type=design&node-id=0-1&mode=design&t=EyCrWLDbRLFwttOO-0)
+<p align="center">
+    <img alt="MPT" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/mpt.png" height="800"/>
+    </br>
+    <a href="https://www.figma.com/file/QiOftMVJJbuW97sQlUGeXg/%D0%9C%D0%9F%D0%A2?type=design&node-id=0-1&mode=design&t=EyCrWLDbRLFwttOO-0">Ссылка на макет</a>
+</p>
 
 
 3. Дизайн онлайн-кинотеатра
-![kino](https://github.com/SMalexeev/SMalexeev/blob/master/assets/kino.png)<br/>
-[Ссылка на макет](https://www.figma.com/file/QiOftMVJJbuW97sQlUGeXg/%D0%9C%D0%9F%D0%A2?type=design&node-id=0-1&mode=design&t=EyCrWLDbRLFwttOO-0)
+<p align="center">
+    <img alt="kino" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/kino.png"/>
+    </br>
+    <a href="https://www.figma.com/file/U531xU7h1gKApXyYsAsjra/kino?type=design&node-id=0-1&mode=design&t=KV8CX15eXTmNxE8W-0">Ссылка на макет</a>
+</p>
 
 
 ## Дипломная работа:
