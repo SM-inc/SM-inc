@@ -57,7 +57,7 @@
 </p>
 
 2. Дизайн сайта Московского приборостроительного техникума
-![MPT](https://github.com/SMalexeev/SMalexeev/blob/master/assets/mpt.png) <br/>
+<img alt="MPT" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/mpt.png" height="600"/><br/>
 [Ссылка на макет](https://www.figma.com/file/QiOftMVJJbuW97sQlUGeXg/%D0%9C%D0%9F%D0%A2?type=design&node-id=0-1&mode=design&t=EyCrWLDbRLFwttOO-0)
 
 
