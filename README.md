@@ -1,6 +1,6 @@
 # Меня зовут Семён
 <p align="center">
-    <img alt="logo" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/Alexeev_2.png"/>
+    <img alt="logo" src="https://github.com/SMalexeev/SMalexeev/blob/master/assets/Alexeev.png"/>
 </p>
 
 ## Обо мне
